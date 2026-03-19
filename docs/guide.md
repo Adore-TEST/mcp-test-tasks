@@ -1,5 +1,5 @@
-# 更新日志
+# 配置说明
 
-Auto-generated content #6215
+Auto-generated content #1909
 
 This file was created for testing purposes.
