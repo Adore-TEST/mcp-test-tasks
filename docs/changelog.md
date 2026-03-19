@@ -1,5 +1,5 @@
-# 配置说明
+# 项目指南
 
-Auto-generated content #7239
+Auto-generated content #6017
 
 This file was created for testing purposes.
